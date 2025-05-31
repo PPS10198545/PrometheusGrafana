@@ -27,7 +27,7 @@ Se creó una red personalizada de Docker para aislar los servicios.
 En el servidor remoto, se descargó e instaló `node_exporter`, configurándolo como servicio `systemd` y verificando que estuviera en ejecución:
 
 📸 **Captura.png**
-![Captura5](/assets/Captura5.png)
+![Captura4](/assets/Captura4.png)
 
 ---
 
@@ -84,8 +84,8 @@ Prometheus detecta y monitorea los siguientes endpoints:
 - Node Exporter remoto
 - Traefik
 
-📸 **Captura4.png**
-![Captura4](/assets/Captura4.png)
+📸 **Captura5.png**
+![Captura5](/assets/Captura5.png)
 
 ---
 
